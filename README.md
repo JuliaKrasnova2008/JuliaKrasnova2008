@@ -80,10 +80,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=zenburn" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username= JuliaKrasnova2008&theme=default" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=zenburn" />
     </td>
   </tr>
 </table>
