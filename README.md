@@ -79,15 +79,8 @@
 
 ### ⚙️ GitHub статистика:
 
-<table>
-  <tr>
-    <td>
       <img align="left" wight="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=zenburn" alt="webDev's Github stats" />
-    </td>
-    <td>
+
       <img height="195px" wight="300px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=zenburn" />
-    </td>
-  </tr>
-</table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JuliaKrasnova2008)
