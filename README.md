@@ -62,28 +62,30 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+-- ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| HTML Academy/Верстка и CSS                                      | 03/2022 - 07/2022 ||
-| practicum.yandex/Факультет Веб разработки                       | 08/2022 - 07/2023 |
+| Курсы                                     |       Дата        |
+| ----------------------------------------- | :---------------: | --- |
+| HTML Academy/Верстка и CSS                | 03/2022 - 07/2022 |     |
+| practicum.yandex/Факультет Веб разработки | 08/2022 - 07/2023 |
 
---- -->
+---
 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/%D0%AE%D0%BB%D0%B8%D1%8F%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B2%D0%B02008/badges/large)
+
+---
 
 ### ⚙️ GitHub статистика:
 
 <table>
   <tr>
     <td>
-      <img align="left" wight="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=zenburn" alt="webDev's Github stats" />
+      <img align="left" wight="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=zenburn" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" wight="50%" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=zenburn" />
+      <img height="195px" wight="300px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=zenburn" />
     </td>
   </tr>
 </table>
