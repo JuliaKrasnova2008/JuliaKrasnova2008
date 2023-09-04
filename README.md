@@ -80,10 +80,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=zenburn" alt="webDev's Github stats" />
+      <img align="left" wight="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=zenburn" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=zenburn" />
+      <img height="195px" wight="50%" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=zenburn" />
     </td>
   </tr>
 </table>
